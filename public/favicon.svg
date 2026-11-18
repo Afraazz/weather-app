@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Weather Application</title>
+  <circle cx="43" cy="21" r="10" fill="#F5A623" />
+  <path d="M43 5v4m0 24v4m16-16h-4m-24 0h-4m27.3-11.3-2.8 2.8m-17 17-2.8 2.8m22.6 0-2.8-2.8m-17-17-2.8-2.8" stroke="#F5A623" stroke-linecap="round" stroke-width="3" />
+  <path d="M19 53h27a10 10 0 0 0 0-20 14 14 0 0 0-26.6-3.8A12 12 0 0 0 19 53Z" fill="#E3F2FD" stroke="#1976D2" stroke-linejoin="round" stroke-width="4" />
+</svg>
